@@ -1,0 +1,23 @@
+{
+  "name": "templatepractice",
+  "description": "Create a fully responsive one page site.",
+  "main": "index.html",
+  "authors": [
+    "Jasmine Baik"
+  ],
+  "scripts": {
+    "sass": "node-sass scss/main.scss css/main.css"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/boshnivolo/TemplatePractice",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

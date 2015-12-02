@@ -1,0 +1,20 @@
+{
+  "name": "templatepractice",
+  "version": "0.0.0",
+  "description": "Create a fully responsive one page site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass scss/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boshnivolo/TemplatePractice.git"
+  },
+  "author": "Jasmine Baik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boshnivolo/TemplatePractice/issues"
+  },
+  "homepage": "https://github.com/boshnivolo/TemplatePractice#readme"
+}
